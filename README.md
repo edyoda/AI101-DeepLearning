@@ -1,4 +1,4 @@
-![Deep Learning Tutorial](img\header.jpg)
+![Deep Learning Tutorial](img/header.jpg)
 
 # Course Content
 

@@ -1,9 +1,11 @@
 class Param:
-	lr = 0.01
-	weights = [5,10]
-	num_labels = 5;
-	num_inputs = 100;
-	num_epochs = 200;
-	train_test_split = 0.8;
-
-
+    learning_rate = 0.01
+    hidden_units = [5]
+    num_labels = 3;
+    num_inputs = 100;
+    batchsize = 20;
+    epochs = 200;
+    train_test_split = 0.8;
+    model_path = "model/model.ckpt";
+    log_path = "graph"
+    

@@ -1,5 +1,7 @@
 ![Deep Learning Tutorial](img/header.jpg)
 
+The following course is also availible on Edyoda : https://www.edyoda.com/course/1429/
+
 # Course Content
 
 ### Essential Programming
@@ -171,15 +173,6 @@
 - Revisiting Point Collector Example in Unity and
 - **Assignment  : **Training Cartpole Example via Deep Q Learning
 
-
-
-### Deep Learning in Action
-
-* Face Detection using Yolo-v3
-* Building Autocomplete Feature using RNNs
-* Real-time Depth Prediction and Pose Estimation
-* How is Deep Learning used in  Autonomous Driver Assistant systems
-* Tips and Tricks for scaling and easy Deployment of Deep Learning Models
 
 
 

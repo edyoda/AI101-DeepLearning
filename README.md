@@ -4,7 +4,7 @@ The videos corrosponding  is also availible on Edyoda : https://www.edyoda.com/c
 
 # Course Content
 
-### Essential Programming  ![Tensorflow Tutorial Video Link](https://www.edyoda.com/course/1429/)
+### Essential Programming  [Tensorflow Tutorial Video Link](https://www.edyoda.com/course/1429/)
 
 * Introduction to Deep Learning
 * Introduction to Numpy
@@ -137,7 +137,7 @@ The videos corrosponding  is also availible on Edyoda : https://www.edyoda.com/c
 
 
 
-### GANs   ![GANs Tutorial Video Link](https://www.edyoda.com/course/1418/)
+### GANs : [GANs Tutorial Video Link](https://www.edyoda.com/course/1418/)
 
 * Generative vs Discrimative Models
 
@@ -154,7 +154,7 @@ The videos corrosponding  is also availible on Edyoda : https://www.edyoda.com/c
 
 
 
-### Model Free Approaches in Reinforcement Learning ![](https://www.edyoda.com/course/1421/)
+### Model Free Approaches in Reinforcement Learning :  [RL Video Link](https://www.edyoda.com/course/1421/)
 
 - Model Free Prediction 
 - Monte Carlo Prediction and TD Learning
